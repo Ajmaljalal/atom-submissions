@@ -1,0 +1,11 @@
+{
+  "id": "my-atom",
+  "name": "My Atom",
+  "version": "1.0.0",
+  "entry": "index.html",
+  "capabilities": [
+    "storage",
+    "clipboard"
+  ],
+  "distribution": "public"
+}
